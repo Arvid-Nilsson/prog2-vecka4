@@ -1,0 +1,7 @@
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka4\Rabbatsystem\Rabbatsystem\bin\Debug\Rabbatsystem.exe.config
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka4\Rabbatsystem\Rabbatsystem\bin\Debug\Rabbatsystem.exe
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka4\Rabbatsystem\Rabbatsystem\bin\Debug\Rabbatsystem.pdb
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka4\Rabbatsystem\Rabbatsystem\obj\Debug\Rabbatsystem.csproj.AssemblyReference.cache
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka4\Rabbatsystem\Rabbatsystem\obj\Debug\Rabbatsystem.csproj.CoreCompileInputs.cache
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka4\Rabbatsystem\Rabbatsystem\obj\Debug\Rabbatsystem.exe
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka4\Rabbatsystem\Rabbatsystem\obj\Debug\Rabbatsystem.pdb
